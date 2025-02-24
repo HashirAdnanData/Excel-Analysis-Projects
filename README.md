@@ -12,6 +12,7 @@ This project analyzes bike sales data to identify customer demographics, mileage
 ✔️ Sales distribution by region & gender
 
 **📸 Dashboard Preview**
+Excel_dashboard.PNG
 
 🔗 Check the full Excel file: Excel-Analysis-Dashboard.xlsx
 
